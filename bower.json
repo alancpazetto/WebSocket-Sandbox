@@ -1,0 +1,21 @@
+{
+  "name": "websocket",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Alan Pazetto <alancpazetto@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}
